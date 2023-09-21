@@ -24,9 +24,9 @@ Welcome to Aaha Nepali, your gateway to a world of authentic Nepali products. Ou
 ### User Registration and Authentication
 
 - [ ] User Registration
-- [ ] User Login
+- [ ] User Login (Buyer/Seller)
 - [ ] Guest Mode
-- [ ] Admin Login (Optional)
+- [ ] Admin Login
 
 ### Product Browsing and Shopping
 
@@ -39,7 +39,7 @@ Welcome to Aaha Nepali, your gateway to a world of authentic Nepali products. Ou
 
 ### User Profiles
 
-- [ ] User Profile Management
+- [ ] User Profile Management (Buyer/Seller)
 - [ ] Order History
 - [ ] Favorites/Wishlist
 - [ ] Reviews and Ratings
